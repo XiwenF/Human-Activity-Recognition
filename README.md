@@ -16,17 +16,23 @@ Two tab-delimited text files data/training_data.txt and data/test_data.txt are p
 ## Instructions to run
  
 First, you need to import the module and data. The steps for binary classification and multi-class classification are almost the same. 
+
 Step 1: Prepare the data. 
+
 Step 2: Split the data into training data and test data. 
+
 Step 3: Build the baseline model.
+
 Step 4: Find the optimal parameters for each algorithms.
+
 Step 5: Build the classifiers through different algorithms and evaluate the performance of each algorithm on training data.
+
 Step 6: Select the algorithm that perform the best and obtain the result on test data. Then save the result in a file.
 
 ### Description about the file
 The test data, features information and data dictionary are in the folder "Data" in the brach main. The training data is in the branch master. The file Code_Classifier is used to finish this project.
 
-## Programming language
+### Programming language
 
 Python 3
 
